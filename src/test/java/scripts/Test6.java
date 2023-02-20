@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class Test6 {
 @Test
 	
-	public void Tc07() {
+	public void Tc06() {
 		Reporter.log("hello jenkins testing",true);
 	}
 }
